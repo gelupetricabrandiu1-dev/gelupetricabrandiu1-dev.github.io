@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.gelupetricabrandiu1_dev.twa",
+        "sha256_cert_fingerprints": ["C2:13:E8:E2:A5:E7:11:56:8D:25:21:12:85:67:D3:F5:76:81:6C:AF:01:49:38:28:64:8C:9A:79:4B:C6:12:61"]
+      }
+    }]
